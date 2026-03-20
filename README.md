@@ -22,5 +22,22 @@ The main objectives of this project as as follows:
   3. Allow access for left and right USB breakout locations
   4. Include mounting holes on the top of the plate for future custom case mounting
 
+
+Bill of Material:
+
+
+
+| Part | Spec | Ref Numbers | Amount |
+| :--- | :--- | :--- | :--- |
+| Diode | 1N4148 | D1-104 | 104 |
+| LED | 5mm Diffused | LED1-3 | 3 |
+| LED Resistor | 1/4w 220R | R1-3 | 3 |
+| USB breakout | JST XH 4-Pin | J1-2 | 2 |
+| Polyfuse | 60R050XU | F1 | 1 |
+| USB Protection | USBLC6-2SC6 | U2 | 1 |
+| Reset/bootsel button | 6mm Momentary | S106-107 | 2 |
+| Keyswitch | Alps SKCM\L | S1-105 | 105 |
+
+
 Untested changes:
 1. Num and Scroll Lock LEDs were moved, but placement not confirmed
