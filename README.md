@@ -37,7 +37,3 @@ Bill of Material:
 | USB Protection | USBLC6-2SC6 | U2 | 1 |
 | Reset/bootsel button | 6mm Momentary | S106-107 | 2 |
 | Keyswitch | Alps SKCM\L | S1-105 | 105 |
-
-
-Untested changes:
-1. Num and Scroll Lock LEDs were moved, but placement not confirmed
