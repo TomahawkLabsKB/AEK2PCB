@@ -32,7 +32,7 @@ Bill of Material:
 | Diode | 1N4148 | D1-104 | 104 |
 | LED | 5mm Diffused | LED1-3 | 3 |
 | LED Resistor | 1/4w 220R | R1-3 | 3 |
-| USB breakout | JST XH 2.54mm 4-Pin | J1-2 | 2 |
+| USB breakout | JST XH 2.54mm 5-Pin | J1-2 | 2 |
 | Polyfuse | 60R050XU | F1 | 1 |
 | USB Protection | USBLC6-2SC6 | U2 | 1 |
 | Reset/bootsel button | 6mm Momentary | S106-107 | 2 |
